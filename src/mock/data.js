@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Logical problem solving has always appealed to me and this explains my interests in mathematics, programming and computing in general. I also enjoy reading about science and tech on the Internet',
-  paragraphTwo: 'My geeky nature led me to pursue a Computer Science degree. Currently working as a DeVops and exploring the Open Source',
+  paragraphTwo: 'My geeky nature led me to pursue a Computer Science degree. Currently working as a SRE engineer and exploring the Open Source',
   paragraphThree: 'Linux servers, Open Source Software and Fast Prototyping are what I like the most.',
   resume: '', // if no resume, the button will not show up
 };
